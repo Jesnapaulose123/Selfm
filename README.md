@@ -1,44 +1,41 @@
-# [Project Name] 🎯
+
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Lumina]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Megha Kootaala] - [MITS]
+- Member 2: [Lizmaria Biju] - [MITS]
+- Member 3: [Jesna Paulose] - [MITS]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
-
+https://earnest-fenglisu-5eef26.netlify.app/
 ### Project Description
-[2-3 lines about what your project does]
+We have designed an app to help the elderly cope with aileination faced by them in their old ageby curating crucial integration of HTML,CSS and Node JS for the frontent and Firebase for the backent.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+The growing loneliness and ignorance  faced by the elderly people in our society.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
-
-## Technical Details
+An app which is designed to solve the program faced by the elederly people.
+## Technical Details'
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+[HTML]
+[NODE js]
+[.Jaison]
+[css]
+[visual studio]
+[Firebase]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+
 
 # Run
 [commands]
@@ -48,13 +45,18 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+*Add caption e![1000280476](https://github.com/user-attachments/assets/28d47816-f79d-4c2c-8e4f-0fd743cd58e3)
+xplaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+*Add capt![1000280478](https://github.com/user-attachments/assets/b10badd3-6c73-43c1-809e-8dc0a3f63d99)
+![1000280477](https://github.com/user-attachments/assets/ebc9ea54-24fb-4a0a-8d89-d4c305049bbe)
+ion explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](Add screenshot 3 
+on explaining ![1000280479](https://github.com/user-attachments/assets/d84d76ce-bf29-45d5-bf0f-8c2daa0fcd08)
+what this sho![1000280479](https://github.com/user-attachments/assets/3271a632-4f5a-40d2-ba19-b72ed2c2a9e0)
+ws*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -84,8 +86,13 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
+
+
+
+
+https://youtu.be/ZbqlAG2fp4w
+about the project SERENE
 
 # Additional Demos
 [Add any extra demo materials/links]
